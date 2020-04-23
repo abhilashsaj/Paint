@@ -5,12 +5,13 @@ Done as part of C# programming course of my undergrad studies in Bachelor of Com
 <br/>
 
 ## What can you do with SimplePaintApp ? 
-- Draw what you want with your mouse
-- Choose your pencil color and your pencil size, no limit about that
+- Use mouse as input for drawing
+- Choose pencil color and pencil size
 - Add special shapes to your drawing
-- Export your drawing on your computer to save it
+- Export drawing to your computer 
 - Print your drawing 
-- Edit an existing image (only Rotation & Transformation are available)
+- Create blank board 
+- Edit an existing image 
 - Save a modified image
 
 Framework: .NET 5.0
