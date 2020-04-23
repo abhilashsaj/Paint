@@ -1,4 +1,4 @@
-# Paint Project
+# Mini Project
 ## Paint Application
 
 Done as part of C# programming course of my undergrad studies in Bachelor of Computer Science and Applications.
